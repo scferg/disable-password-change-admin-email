@@ -1,0 +1,9 @@
+{
+  "name": "scferg/disable-password-change-admin-email",
+  "version": "1.0.0",
+  "license": "This software is NOT to be distributed.",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "v1.0.24"
+  }
+}
